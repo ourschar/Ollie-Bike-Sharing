@@ -5,6 +5,10 @@ Share Your Pedals with the World.
 
 Need a set of wheels while you're in town? Use Ollie to pair your perfect vacation with a stylish, affordable bike rental. Here is a list of cities where you can find us.
 
+## Demo
+
+[Ollie Bike Sharing](https://ourschar.github.io/olliebikesharing/)
+
 ## Details
 
 Built with HTML5 for Code Academy [project 1](https://www.codecademy.com/en/courses/make-a-website).
